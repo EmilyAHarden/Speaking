@@ -19,5 +19,12 @@ body {
     border-radius: 5px; /* Rounded corners */
     background-color: rgba(73,157,144, 0.6); /* Pale blue color with 70% opacity */
 }
+a {
+    color: #f0f0f0; /* Red color */
+    text-decoration: none; /* Remove underline */
+}
 
-}}
+a:hover {
+    text-decoration: underline; /* Add underline on hover */
+}
+}
