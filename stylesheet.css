@@ -12,7 +12,9 @@ body {
 /* Additional styles can be added here as needed */
 
 .pale-blue-box {
-    background-color: #E6F2FF; /* Pale blue color */
     padding: 10px; /* Adjust padding as needed */
     border-radius: 5px; /* Rounded corners */
+    background-color: rgba(230, 242, 255, 0.7); /* Pale blue color with 70% opacity */
+}
+
 }}
