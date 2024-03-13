@@ -8,6 +8,11 @@ body {
     font-family: Arial, sans-serif;
     color: #f0f0f0; 
     /* Off-white color */
-}
 
 /* Additional styles can be added here as needed */
+
+.pale-blue-box {
+    background-color: #E6F2FF; /* Pale blue color */
+    padding: 10px; /* Adjust padding as needed */
+    border-radius: 5px; /* Rounded corners */
+}}
